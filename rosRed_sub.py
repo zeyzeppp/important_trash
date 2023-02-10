@@ -2,7 +2,7 @@
 #-*- coding: UTF-8 -*-
 
 import rospy 
-from ros_colorDetection.msg import rosRed
+from ros_color_detection.msg import rosRed
 
 def function(data):
 
