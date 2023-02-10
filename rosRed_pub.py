@@ -6,7 +6,7 @@ import rospy
 import cv2
 import numpy as np
 from sensor_msgs.msg import Image
-from ros_colorDetection.msg import rosRed
+from ros_color_detection.msg import rosRed
 from cv_bridge import CvBridge, CvBridgeError
 
 
